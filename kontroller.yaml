@@ -22,5 +22,6 @@ ldapConfiguration:
   trustAnySecuredHost: true
   cachePolicy: maximumSize=10000, expireAfterWrite=10m
   #connectTimeout: 500ms
-  #readTimeout: 500ms
+  #readTimeout: 500ms 
+  #test fork
 
